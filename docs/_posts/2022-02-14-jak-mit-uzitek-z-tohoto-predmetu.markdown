@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setkání #1 - Jak mít užitek z tohoto předmětu?"
-date:   2022-01-01 10:00:00 +0100
+date:   2022-02-14 10:00:00 +0100
 categories: [Teorie humanitních věd 2, LS 2021/22, UP]
 ---
 

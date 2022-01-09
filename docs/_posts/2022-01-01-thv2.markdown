@@ -1,0 +1,103 @@
+---
+layout: post
+title:  "Sylabus"
+date:   2022-01-01 09:00:00 +0100
+categories: [Teorie humanitních věd 2, LS 2021/22, UP]
+---
+
+## Abstrakt
+Cílem kurzu je získat přehled o metodách výzkumu, které se uplatňují v humanitních oborech od konce 20. století až do současnosti. Důraz bude kladen na seznámení se s tradičními přístupy i s technikami z oblasti Digital Humanities. Důležité místo bude zaujímat srovnání jednotlivých metod a jejich metodologická kritika. Tematicky bude kurz zaměřen na vybraná témata z Digital Humanities, poststrukturalismu a teorie médií. Výklad bude prokládán příklady konkrétních výzkumných otázek a projektů.
+
+## Požadavky
+* Aktivní účast na hodině, čtení seminárních textů (20%)
+* Prezentace seminárního textu v hodině (20%): Pro každé setkání bude na stránkách předmětu uveden soubor textů k přečtení. Od studentů se bude očekávat, že se s těmito texty dopředu seznámí. Zároveň budou studenti povinni alespoň jednou za semestr jeden text podrobně prostudovat a během odpovídajícího semináře jej představit. Cílem krátké (cca 10 minutové) prezentace bude vysvětlení základních termínů a myšlenek obsažených v textu. 
+* Závěrečná esej v rozsahu 3 - 5 normostran (60%). Konkrétní téma eseje studenti oznámí nejpozději do 4. 4. 2022 emailem přednášející. Na výběr mají jednu z následujících možností:
+  * Buď si sami najdou cizí projekt z oblasti Digital Humanities a v eseji kriticky zhodnotí použitou metodologii,
+  * nebo vypracují návrh na vlastní výzkumný projekt a popíšou zamýšlenou metodologii.
+
+## Cíle předmětu:
+Úspěšní absolventi předmětu získají zkušenost se čtením různých druhů teoretických textů z humanitní oblasti. Budou schopni jim porozumět a kriticky se k nim vymezit. Budou umět navrhnout a metodologicky popsat vlastní výzkumný záměr nebo zhodnotit existující projekt z metodologického hlediska.
+
+## Literatura:
+### Základní:
+* Helena Bendová, Matěj Strnad (eds.), “Společenské vědy a audiovize”. NAMU, Praha 2014. Online zde. 
+* Debates in the Digital Humanities:
+  * Matthew K. Gold. Debates in the Digital Humanities. University of Minnesota Press, 2012. Online zde.
+  * Matthew K. Gold, Lauren F. Klein. Debates in the Digital Humanities 2016. University of Minnesota Press, 2016. Online zde.
+  * Matthew K. Gold, Lauren F. Klein. Debates in the Digital Humanities 2019. University of Minnesota Press, 2019. Online zde.
+
+### Užitečné odkazy
+* Digital Humanities Quarterly
+* European Association for Digital Humanities - projekty
+* Digital Humanities Institute at the University of Sheffield - projekty
+
+## Okruhy a témata
+1. Jak mít užitek z tohoto předmětu? Úvodní setkání.
+  * James Shapiro, “1599: Jeden rok v životě Williama Shakespeara.” Argo, 2017.
+  * Jacques Savoy, “Machine Learning Methods for Stylometry.” Springer Nature Switzerland, 2020.
+
+1. Jak číst knihy? Smrt autora, vzestup čtenáře a vzdálené čtení.
+  * Roland Barthes. “Smrt autora.” Aluze: časopis pro literaturu, filosofii a jiné. Olomouc: Univerzita Palackého, 2006, roč. 10, č. 3. Online zde.
+  * Janice A. Radway. “Jak ženy čtou milostné romány.” In: Společenské vědy a audiovize”. Online zde.
+  * Franco Moretti. "The Slaughterhouse of Literature." MLQ: Modern Language Quarterly, vol. 61 no. 1, 2000, p. 207-227. Online zde.
+
+1. Jak rozumět historii? Historie podle školy Annales. Vyprávění jako metoda.
+  * Robert Darnton. “Velký masakr koček a další epizody z francouzské kulturní historie”. Argo, 2013.
+  * Hayden White. “Otázka vyprávění v současné teorii historie.” In: Společenské vědy a audiovize”. Online zde.
+  * Pierre Nora. “Mezi pamětí a historií, problematika míst.” In: Společenské vědy a audiovize”. Online zde.
+
+1. Jak se dívat na obrazy? Drapérie podle Didi-Hubermana, Lev Manovich a tisíce obrazů.
+  * Walter Benjamin. “Umělecké dílo ve věku své technické reprodukovatelnosti.” In: “Výbor z díla I : Literárněvědné studie”. Oikoymenh, 2009. Online zde.
+  * Georges Didi-Huberman. “Ninfa moderna: Esej o spadlé draperii.” Fra 2010.
+  * Lev Manovich. "How to Compare One Million Images?" In David Berry, ed., Understanding Digital Humanities (Palgrave, 2012).
+Stefka Hristova. “Images As Data: Cultural Analytics and Aby Warburg’s Mnemosyne”. In: “International Journal for Digital Art History”, no. 2 (October 2016).  Online zde.
+  * Sabine Lang, Björn Ommer. “Transforming Information Into Knowledge: How Computational Methods Reshape Art History”. DHQ 2021, Volume 15 Number 3. Online zde.
+
+1. Jak chodit po městě? Prostor dle Henryho Lefebvra.
+  * Henry Lefebvre, “The Production of Space.” Basil Blackwell, 1991. Online zde.
+  * Jane Jackson, “Smrt a život amerických velkoměst.” Mox Nox 2013.
+  * Cameron Blevins. “Mining and Mapping the Production of Space: A View of the World from Houston.” Online zde.  
+  * Bruno Latour. “Introduction : Paris, invisible city: The plasma.” City, Culture and Society, Elsevier, 2012, 3 (2), pp. 91 - 93.
+
+1. Jak počítat pohádky? Grafové struktury jako model světa. Knowledge graphs. linked data.
+  * Vladimir Propp, “Morfologie pohádky a jiné studie”. H&H 1999. Online zde.
+  * Franco Moretti, “Graphs, Maps, Trees: Abstract Models for a Literary History.” Verso, 2005.
+  * Claude Lévi-Strauss. “Strukturální antropologie”. Argo, 2006.
+
+1. Jak rozumět médiím?
+  * Friedrich Kittler, “Počítačový analfabetismus.” In: Společenské vědy a audiovize”. 
+  * Marshall McLuhan, “Médium je poselstvím.” In: Jak rozumět médiím: extenze člověka, Odeon, 1991. Online zde.
+  * Lev Manovich, “The Language of New Media.” MIT Press 2001, Online zde.
+
+1. Jak rozumět technologiím?
+  * Johanna Drucker, “Visualization and Interpretation: Humanistic Approaches to Display” MIT Press, 2020.
+  * Drucker, Johanna. “Humanities Approaches to Graphical Display.” Digital Humanities Quarterly 005, no. 1 (March 10, 2011). Online zde.
+  * John Searle. “Minds, brains, and programs”. In: Behavioral and Brain Sciences, 3(3), 417-424.
+
+1. Jak se zbavit stereotypů? Kritická teorie a digital science.
+  * Theodor W. Adorno, Max Horkheimer, “Kulturní průmysl: osvícenství jako masový podvod”. In “Společenské vědy a audiovize”. Online zde.
+  * David M. Berry. “Critical Theory and the Digital.” Bloomsbury Academic, 2014.
+  * Alan Liu. “Where  Is Cultural Criticism in the Digital Humanities?” In: “Debates in the Digital Humanities”. University of Minnesota Press, 2012. Online zde.
+
+1. Jak být moderní? Historie objektivity, sociologie vědy, kritika kritiky.
+  * Lorraine Daston, Peter Galison, “Objectivity.” Zone Books, 2007.
+  * Bruno Latour, “Nikdy sme neboli moderní.” Kalligram 2003. 
+  * Brockman, J. et al. “Třetí kultura.” Praha, Academia 2008.
+
+1. Jak se stát kyborgem?
+  * Gilles Deleuze, Félix Guattari. “1730 - Stávání-se-intenzivním, stávání-se-zvířetem, stávání-se-nepozorovatelným…” In: “Tisíc plošin”. Hermann & synové, 2010.
+  * Donna Haraway, “Manifest Kyborgů: Věda, technologie a socialistický feminismus ke konci dvacátého století.  In: Společenské vědy a audiovize”. Online zde.
+  * N. Katherine Hayles. “How We Became Posthuman: Virtual Bodies in Cybernetics, Literature and Informatics”. Chicago: University of Chicago Press, 1999. 
+
+1. Jak si něco zapamatovat? Paměťové paláce. Archivy. Offline first & digital gardening.
+  * Frances Yates. “Umění paměti”. Malvern 2015.
+  * Luciana Duranti. "Archives as a Place." In: Archives & Manuscripts 24, 2 (1996): 242-255. Online zde.
+
+1. Jak něco napsat? Práce s prameny v době digitálních technologií.
+  * Kate L. Turabian. “A Manual for Writers of Term Papers, Theses, and Dissertations.” University of Chicago Press,1955.
+  * zettelkasten, tiddlywiki, hypothes.is
+
+### Poznámka
+Seznam témat a okruhů nemusí přesně odpovídat průběhu semestru. Během semestru se mohou témata přidávat nebo ubírat s ohledem na potřeby a zájem studentů.
+
+
