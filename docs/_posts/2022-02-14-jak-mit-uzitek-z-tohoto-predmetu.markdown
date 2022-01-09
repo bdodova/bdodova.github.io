@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Setkání #1 - Jak mít užitek z tohoto předmětu?"
+date:   2022-01-01 10:00:00 +0100
+categories: [Teorie humanitních věd 2, LS 2021/22, UP]
+---
+
+Poznámky a prezentace: [zde](https://bdodova.github.io/LS_2022_THV2_UP/#1%20-%20Jak%20m%C3%ADt%20u%C5%BEitek%20z%20tohoto%20p%C5%99edm%C4%9Btu%3F)
