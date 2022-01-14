@@ -10,7 +10,7 @@ Cílem kurzu je získat přehled o metodách výzkumu, které se uplatňují v h
 
 ## Požadavky
 * Aktivní účast na hodině, čtení seminárních textů (20%)
-* Prezentace seminárního textu v hodině (20%): Pro každé setkání bude na stránkách předmětu uveden soubor textů k přečtení. Od studentů se bude očekávat, že se s těmito texty dopředu seznámí. Zároveň budou studenti povinni alespoň jednou za semestr jeden text podrobně prostudovat a během odpovídajícího semináře jej představit. Cílem krátké (cca 10 minutové) prezentace bude vysvětlení základních termínů a myšlenek obsažených v textu. 
+* Prezentace seminárního textu v hodině (20%): Pro každé setkání bude určen soubor textů k přečtení. Detailní informace budou k dispozici na stránkách předmětu. Od studentů se bude očekávat, že se s těmito texty dopředu seznámí. Zároveň budou studenti povinni alespoň jednou za semestr jeden text podrobně prostudovat a během odpovídajícího semináře jej představit. Cílem krátké (cca 10 minutové) prezentace bude vysvětlení základních termínů a myšlenek obsažených v textu. 
 * Závěrečná esej v rozsahu 3 - 5 normostran (60%). Konkrétní téma eseje studenti oznámí nejpozději do 4. 4. 2022 emailem přednášející. Na výběr mají jednu z následujících možností:
   * Buď si sami najdou cizí projekt z oblasti Digital Humanities a v eseji kriticky zhodnotí použitou metodologii,
   * nebo vypracují návrh na vlastní výzkumný projekt a popíšou zamýšlenou metodologii.
