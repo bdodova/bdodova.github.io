@@ -2,7 +2,7 @@
 layout: post
 title:  "Sylabus"
 date:   2022-01-01 09:00:00 +0100
-categories: [Teorie humanitních věd 2, LS 2021/22, UP]
+categories: [thv2_2021_22]
 ---
 
 ## Abstrakt
