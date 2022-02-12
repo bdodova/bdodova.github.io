@@ -15,11 +15,11 @@ Cílem kurzu je získat přehled o metodách výzkumu, které se uplatňují v h
   * Buď si sami najdou cizí projekt z oblasti Digital Humanities a v eseji kriticky zhodnotí použitou metodologii,
   * nebo vypracují návrh na vlastní výzkumný projekt a popíšou zamýšlenou metodologii.
 
-## Cíle předmětu:
+## Cíle předmětu
 Úspěšní absolventi předmětu získají zkušenost se čtením různých druhů teoretických textů z humanitní oblasti. Budou schopni jim porozumět a kriticky se k nim vymezit. Budou umět navrhnout a metodologicky popsat vlastní výzkumný záměr nebo zhodnotit existující projekt z metodologického hlediska.
 
-## Literatura:
-### Základní:
+## Literatura
+### Základní
 * Helena Bendová, Matěj Strnad (eds.), “Společenské vědy a audiovize”. NAMU, Praha 2014. Online [zde](https://monoskop.org/images/d/d8/Bendova_Helena_Strnad_Matej_eds_Spolecenske_vedy_a_audiovize_2014.pdf).
 * Debates in the Digital Humanities:
   * Matthew K. Gold. Debates in the Digital Humanities. University of Minnesota Press, 2012. Online [zde](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities).
