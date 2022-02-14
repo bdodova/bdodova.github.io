@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setkání #1 - Jak mít užitek z tohoto předmětu?"
-date:   2022-02-14 00:01:00 +0100
+date:   2022-02-14 01:01:00 +0100
 categories: [thv2_2021_22]
 ---
 Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_THV2_UP/01-jak_mit_uzitek_z_tohoto_predmetu.html).
