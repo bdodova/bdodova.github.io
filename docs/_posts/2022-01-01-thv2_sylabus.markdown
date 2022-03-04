@@ -50,7 +50,7 @@ Cílem kurzu je získat přehled o metodách výzkumu, které se uplatňují v h
   * Walter Benjamin. “Umělecké dílo ve věku své technické reprodukovatelnosti.” In: “Výbor z díla I : Literárněvědné studie”. Oikoymenh, 2009. Online [zde](https://monoskop.org/images/5/52/Benjamin_Walter_1936_2009_Umelecke_dilo_ve_veku_sve_technicke_reprodukovatelnosti.pdf).
   * Georges Didi-Huberman. “Ninfa moderna: Esej o spadlé draperii.” Fra 2010.
   * Lev Manovich. "How to Compare One Million Images?" In David Berry, ed., Understanding Digital Humanities (Palgrave, 2012). Online [zde](http://softwarestudies.com/cultural_analytics/2011.How_To_Compare_One_Million_Images.pdf).
-Stefka Hristova. “Images As Data: Cultural Analytics and Aby Warburg’s Mnemosyne”. In: “International Journal for Digital Art History”, no. 2 (October 2016).  Online [zde](https://journals.ub.uni-heidelberg.de/index.php/dah/article/view/23489/27209).
+  * Stefka Hristova. “Images As Data: Cultural Analytics and Aby Warburg’s Mnemosyne”. In: “International Journal for Digital Art History”, no. 2 (October 2016).  Online [zde](https://journals.ub.uni-heidelberg.de/index.php/dah/article/view/23489/27209).
   * Sabine Lang, Björn Ommer. “Transforming Information Into Knowledge: How Computational Methods Reshape Art History”. DHQ 2021, Volume 15 Number 3. Online [zde](http://www.digitalhumanities.org/dhq/vol/15/3/000560/000560.html).
 
 1. Jak chodit po městě? Prostor dle Henryho Lefebvra.
