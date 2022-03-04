@@ -12,13 +12,12 @@ title: Teorie humanitních věd 2
       {% capture category_name %}{{ category | first }}{% endcapture %}
       <div id="#{{ category_name | slugize }}"></div>
       <p></p>
-  
       <!--h3 class="category-head">{{ category_name }}</h3-->
       <a name="{{ category_name | slugize }}"></a>
       {% for post in site.categories[category_name] %}
       <article class="archive-item">
+        {{post.date | date: "%-d/%-m/%Y"}}
         <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-        {%- assign date_format = site.minima.date_format | default: "%-d/%-m/%Y" -%}
       </article>
       {% endfor %}
     </div>
