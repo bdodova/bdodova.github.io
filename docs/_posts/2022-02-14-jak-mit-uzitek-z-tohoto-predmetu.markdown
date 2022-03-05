@@ -6,6 +6,8 @@ categories: [thv2_2021_22]
 ---
 Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_THV2_UP/01-jak_mit_uzitek_z_tohoto_predmetu.html)
 
+Klíčková slova: stylometrie
+
 Zadaná četba: není
 
 Přečíst na příště:
