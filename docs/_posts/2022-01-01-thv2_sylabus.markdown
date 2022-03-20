@@ -65,7 +65,8 @@ Cílem kurzu je získat přehled o metodách výzkumu, které se uplatňují v h
   * Claude Lévi-Strauss. “Strukturální antropologie”. Argo, 2006.
 
 1. Jak rozumět médiím?
-  * Friedrich Kittler, “Počítačový analfabetismus.” In: Společenské vědy a audiovize”.
+  * Friedrich Kittler, “Počítačový analfabetismus.” In: Společenské vědy a audiovize”. Online [zde](https://monoskop.org/images/d/d8/Bendova_Helena_Strnad_Matej_eds_Spolecenske_vedy_a_audiovize_2014.pdf), strany 651-668.
+
   * Marshall McLuhan, “Médium je poselstvím.” In: Jak rozumět médiím: extenze člověka, Odeon, 1991. Online [zde](https://monoskop.org/images/7/77/McLuhan_Marshall_Jak_rozumet_mediim.pdf).
   * Lev Manovich, “The Language of New Media.” MIT Press 2001, Online [zde](https://monoskop.org/images/b/b4/Manovich_Lev_The_Language_of_New_Media_2001.pdf).
 
