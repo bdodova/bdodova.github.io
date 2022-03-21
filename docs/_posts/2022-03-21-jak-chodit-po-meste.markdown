@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setkání #5 - Jak chodit po městě?"
-date:   2022-03-15 01:01:00 +0100
+date:   2022-03-21 01:01:00 +0100
 categories: [thv2_2021_22]
 ---
 Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_THV2_UP/05-jak_chodit_po_meste.html)
