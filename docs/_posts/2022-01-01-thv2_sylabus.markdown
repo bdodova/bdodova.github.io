@@ -56,8 +56,7 @@ Cílem kurzu je získat přehled o metodách výzkumu, které se uplatňují v h
 1. Jak chodit po městě? Prostor dle Henryho Lefebvra.
   * Henry Lefebvre, “The Production of Space.” Basil Blackwell, 1991. Online [zde](https://monoskop.org/images/7/75/Lefebvre_Henri_The_Production_of_Space.pdf).
   * Jane Jackson, “Smrt a život amerických velkoměst.” Mox Nox 2013.
-  * Cameron Blevins. “Mining and Mapping the Production of Space: A View of the World from Houston.” Online [zde (waybackmachine)](https://web.archive.org/web/20220125152841/http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93#12), nebo [zde (originál, dead-link)](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93#12).
- [zde](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93).
+  * Cameron Blevins. “Mining and Mapping the Production of Space: A View of the World from Houston.” Online [zde (waybackmachine)](https://web.archive.org/web/20220125152841/http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93), nebo [zde (originál, dead-link)](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93).
   * Bruno Latour. “Introduction : Paris, invisible city: The plasma.” City, Culture and Society, Elsevier, 2012, 3 (2), pp. 91 - 93.
 
 1. Jak počítat pohádky? Grafové struktury jako model světa. Knowledge graphs. linked data.
