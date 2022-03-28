@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setkání #6 - Jak rozumět médiím?"
-date:   2022-03-27 01:01:00 +0100
+date:   2022-03-28 01:01:00 +0100
 categories: [thv2_2021_22]
 ---
 Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_THV2_UP/06-jak_rozumet_mediim.html)
