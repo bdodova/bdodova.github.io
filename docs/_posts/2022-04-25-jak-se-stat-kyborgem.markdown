@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setkání #9 - Jak se stát kyborgem?"
-date: 2022-04-24 01:01:00 +0100
+date: 2022-04-25 01:01:00 +0100
 categories: [thv2_2021_22]
 ---
 Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_THV2_UP/09-jak_se_stat_kyborgem.html)
