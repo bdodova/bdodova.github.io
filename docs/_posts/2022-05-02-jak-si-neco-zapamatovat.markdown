@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Setkání #10 - Jak si n2co zapamatovat?"
-date: 2022-05-01 01:01:00 +0100
+title: "Setkání #10 - Jak si něco zapamatovat?"
+date: 2022-05-02 01:01:00 +0100
 categories: [thv2_2021_22]
 ---
 Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_THV2_UP/10_jak_si_neco_zapamatovat.html )
