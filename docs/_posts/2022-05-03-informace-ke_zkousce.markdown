@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Informace ke zkoušce"
-date: 2022-05-0š 01:01:00 +0100
+date: 2022-05-03 01:01:00 +0100
 categories: [thv2_2021_22]
 ---
 
