@@ -9,3 +9,5 @@ Témata přednášky v grafické mapě [zde](https://bdodova.github.io/2022-THV2
 Četba:
 - není
 
+Doporučená četba
+- Lorraine Daston, Peter Galison: [The Image of Objectivity](https://cspeech.ucd.ie/Fred/docs/Galison.pdf) (1992)
