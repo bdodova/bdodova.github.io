@@ -1,67 +1,13 @@
 ---
 layout: default
-title: Termíny
+title: Požadavky a termíny
 parent: Teorie humanitních věd 2
 nav_order: 3
 ---
 
-# Configuration
-{: .no_toc }
-
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
-{: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-## Site logo
-
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
-
-## Site favicon
-
-```yaml
-# Set a path/url to a favicon that will be displayed by the browser
-favicon_ico: "/assets/images/favicon.ico"
-```
-
-If the path to your favicon is `/favicon.ico`, you can leave `favicon_ico` unset.
-
-## Search
-
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
-search:
-  # Split pages into sections that can be searched individually
-  # Supports 1 - 6, default: 2
-  heading_level: 2
-  # Maximum amount of previews per search result
-  # Default: 3
-  previews: 3
-  # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
-  preview_words_before: 5
-  # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
-  preview_words_after: 10
-  # Set the search token separator
-  # Default: /[\s\-/]+/
-  # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
-  # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: true
-  # Enable or disable the search button that appears in the bottom right corner of every page
-  # Supports true or false (default)
-  button: false
-```
+## Požadavky
+* Aktivní účast na hodině, čtení seminárních textů (20%)
+* Prezentace seminárního textu v hodině (20%): Pro každé setkání bude určen soubor textů k přečtení. Detailní informace budou průběžně k dispozici na [stránkách předmětu](https://bdodova.github.io/predmety/thv2_22_23/). Od studentů se bude očekávat, že se s předepsanými texty dopředu seznámí. Zároveň budou povinni alespoň jednou za semestr jeden text podrobně prostudovat a během následujícího semináře jej představit. Cílem krátké (cca 10 minutové) prezentace bude vysvětlení základních termínů a myšlenek obsažených v textu.
+* Závěrečná esej v rozsahu 3 - 5 normostran (60%). Konkrétní téma eseje studenti oznámí nejpozději do 10. dubna 2023 emailem přednášející. Na výběr mají jednu z následujících možností:
+  * Buď si sami najdou cizí projekt z oblasti Digital Humanities a v eseji kriticky zhodnotí použitou metodologii,
+  * nebo vypracují návrh na vlastní výzkumný projekt a popíšou zamýšlenou metodologii.
