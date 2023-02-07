@@ -12,13 +12,10 @@ nav_order: 2
 
 ## Setkání #1 - Jak něco napsat
 
-<dl>
-  <dt>Datum</dt>
-  <dd>13. 2. 2023</dd>
-  <dt>Prezentace</dt>
-  <dd></dd>
-  <dt>Klíčová slova</dt>
-  <dd></dd>
-</dl>
+Datum: 13. 2. 2023
+
+Prezentace:
+
+Klíčová slova:
 
 Četba na příště:
