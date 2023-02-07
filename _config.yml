@@ -1,5 +1,8 @@
-title: Výuka
-description: Stránky s informacemi o vyučovaných předmětech
+title: Výuka a jiné radosti
+description: Informační stránky
 theme: just-the-docs
 
 url: https://bdodova.github.io/
+
+# Enable or disable the site search
+search_enabled: false
