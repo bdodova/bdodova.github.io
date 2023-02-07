@@ -5,7 +5,6 @@ parent: Teorie humanitních věd 2
 nav_order: 3
 ---
 
-## Požadavky
 * Aktivní účast na hodině, čtení seminárních textů (20%)
 * Prezentace seminárního textu v hodině (20%): Pro každé setkání bude určen soubor textů k přečtení. Detailní informace budou průběžně k dispozici na [stránkách předmětu](https://bdodova.github.io/predmety/thv2_22_23/). Od studentů se bude očekávat, že se s předepsanými texty dopředu seznámí. Zároveň budou povinni alespoň jednou za semestr jeden text podrobně prostudovat a během následujícího semináře jej představit. Cílem krátké (cca 10 minutové) prezentace bude vysvětlení základních termínů a myšlenek obsažených v textu.
 * Závěrečná esej v rozsahu 3 - 5 normostran (60%). Konkrétní téma eseje studenti oznámí nejpozději do 10. dubna 2023 emailem přednášející. Na výběr mají jednu z následujících možností:
