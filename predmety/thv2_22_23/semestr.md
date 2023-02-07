@@ -10,6 +10,8 @@ nav_order: 2
 
 ---
 
-## Setkání #1 - Jak něco napsat?
+## Setkání #1 - Jak něco napsat
+
 Datum: 13. 2. 2023
+
 Četba na příště:
