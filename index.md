@@ -1,5 +1,5 @@
 ---
-title: Teorie humanitní věd 2
+title: Informace
 layout: home
 ---
 [Sylabus]({% link docs/sylabus.md %})
