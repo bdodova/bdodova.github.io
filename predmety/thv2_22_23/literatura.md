@@ -2,7 +2,7 @@
 layout: default
 title: Literatura
 parent: Teorie humanitních věd 2
-nav_order: 4
+nav_order: 5
 ---
 ## Literatura
 ### Základní
