@@ -2,5 +2,5 @@
 title: Informace
 layout: home
 ---
-[Sylabus]({% link docs/sylabus.md %})
+[Sylabus]({% link docs/thv2/22_23/sylabus.md %})
 ----
