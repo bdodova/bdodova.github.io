@@ -5,28 +5,11 @@ parent: Teorie humanitních věd 2
 nav_order: 4
 ---
 
-# Configuration
-{: .no_toc }
-
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
-{: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
 {:toc}
 
 ---
 ## Abstrakt
 Cílem kurzu je získat přehled o metodách výzkumu, které se uplatňují v humanitních oborech od konce 20. století až do současnosti. Důraz bude kladen na seznámení se s tradičními přístupy i s technikami z oblasti Digital Humanities. Důležité místo bude zaujímat srovnání jednotlivých metod a jejich metodologická kritika. Tematicky bude kurz zaměřen na vybraná témata z Digital Humanities, poststrukturalismu a teorie médií. Výklad bude prokládán příklady konkrétních výzkumných otázek a projektů.
-
-## Požadavky
-* Aktivní účast na hodině, čtení seminárních textů (20%)
-* Prezentace seminárního textu v hodině (20%): Pro každé setkání bude určen soubor textů k přečtení. Detailní informace budou průběžně k dispozici na [stránkách předmětu](https://bdodova.github.io/thv2_2021_22/). Od studentů se bude očekávat, že se s předepsanými texty dopředu seznámí. Zároveň budou povinni alespoň jednou za semestr jeden text podrobně prostudovat a během následujícího semináře jej představit. Cílem krátké (cca 10 minutové) prezentace bude vysvětlení základních termínů a myšlenek obsažených v textu.
-* Závěrečná esej v rozsahu 3 - 5 normostran (60%). Konkrétní téma eseje studenti oznámí nejpozději do 10. dubna 2023 emailem přednášející. Na výběr mají jednu z následujících možností:
-  * Buď si sami najdou cizí projekt z oblasti Digital Humanities a v eseji kriticky zhodnotí použitou metodologii,
-  * nebo vypracují návrh na vlastní výzkumný projekt a popíšou zamýšlenou metodologii.
 
 ## Cíle předmětu
 Úspěšní absolventi předmětu získají zkušenost se čtením různých druhů teoretických textů z humanitní oblasti. Budou schopni jim porozumět a kriticky se k nim vymezit. Budou umět navrhnout a metodologicky popsat vlastní výzkumný záměr nebo zhodnotit existující projekt z metodologického hlediska.
