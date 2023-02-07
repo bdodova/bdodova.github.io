@@ -13,5 +13,6 @@ nav_order: 2
 ## Setkání #1 - Jak něco napsat
 
 Datum: 13. 2. 2023
-
+Prezentace:
+Klíčová slova:
 Četba na příště:
