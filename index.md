@@ -1,6 +1,7 @@
 ---
-title: Informace
+title: Úvod
 layout: home
+nav_order: 1
 ---
-[Sylabus]({% link docs/thv2/22_23/sylabus.md %})
+[Teorie humanitních věd 2]({% link docs/thv2/22_23 %})
 ----
