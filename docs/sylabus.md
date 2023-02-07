@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Sylabus THV2
 nav_order: 2
 ---
 
@@ -171,8 +171,6 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
   }
 });
 </script>
-
-See [Customization]({% link docs/customization.md %}) for more information.
 
 ## Callouts
 {: .d-inline-block }
