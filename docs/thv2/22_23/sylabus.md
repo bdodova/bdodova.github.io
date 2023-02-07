@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sylabus
-nav_order: 2
+nav_order: 3
 ---
 
 # Configuration
