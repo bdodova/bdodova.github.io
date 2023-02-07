@@ -78,7 +78,7 @@ Cílem kurzu je získat přehled o metodách výzkumu, které se uplatňují v h
   * Frances Yates. “Umění paměti”. Malvern 2015.
   * Luciana Duranti. "Archives as a Place." In: Archives & Manuscripts 24, 2 (1996): 242-255. Online [zde](https://archivo.cartagena.es/doc/Archivos_Social_Studies/Vol1_n0/07-duranti_archives.pdf).
 
-#### Témata, na která se nejspíš nedostane...
+## Na co se nejspíš nedostane
 
 1. Jak počítat pohádky? Grafové struktury jako model světa. Knowledge graphs. linked data.
   * Vladimir Propp, “Morfologie pohádky a jiné studie”. H&H 1999. Online [zde](https://monoskop.org/images/f/fd/Propp_Vladimir_Morfologie_pohadky_a_jine_studie.pdf).
@@ -90,7 +90,7 @@ Cílem kurzu je získat přehled o metodách výzkumu, které se uplatňují v h
   * Donna Haraway, “Manifest Kyborgů: Věda, technologie a socialistický feminismus ke konci dvacátého století.  In: Společenské vědy a audiovize”. Online [zde](https://monoskop.org/images/d/d8/Bendova_Helena_Strnad_Matej_eds_Spolecenske_vedy_a_audiovize_2014.pdf).
   * N. Katherine Hayles. “How We Became Posthuman: Virtual Bodies in Cybernetics, Literature and Informatics”. Chicago: University of Chicago Press, 1999. 
 
-### Poznámka
+## Upozornění
 Seznam témat a okruhů nemusí přesně odpovídat průběhu semestru. Během semestru se mohou témata přidávat nebo ubírat s ohledem na potřeby a zájem studentů.
 
 
