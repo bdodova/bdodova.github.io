@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sylabus
+parent: Teorie humanitních věd 2
 nav_order: 4
 ---
 
