@@ -7,7 +7,7 @@ nav_order: 4
 
 <details open markdown="block">
   <summary>
-    Table of contents
+    Obsah
   </summary>
   {: .text-delta }
 1. TOC
