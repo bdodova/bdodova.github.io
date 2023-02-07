@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Průběh semestru
-nav_order: 1
+title: semestr
+nav_order: 2
 ---
 
 # Configuration
