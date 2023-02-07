@@ -21,19 +21,6 @@ Cílem kurzu je získat přehled o metodách výzkumu, které se uplatňují v h
 ## Cíle předmětu
 Úspěšní absolventi předmětu získají zkušenost se čtením různých druhů teoretických textů z humanitní oblasti. Budou schopni jim porozumět a kriticky se k nim vymezit. Budou umět navrhnout a metodologicky popsat vlastní výzkumný záměr nebo zhodnotit existující projekt z metodologického hlediska.
 
-## Literatura
-### Základní
-* Helena Bendová, Matěj Strnad (eds.), “Společenské vědy a audiovize”. NAMU, Praha 2014. Online [zde](https://monoskop.org/images/d/d8/Bendova_Helena_Strnad_Matej_eds_Spolecenske_vedy_a_audiovize_2014.pdf).
-* Debates in the Digital Humanities:
-  * Matthew K. Gold. Debates in the Digital Humanities. University of Minnesota Press, 2012. Online [zde](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities).
-  * Matthew K. Gold, Lauren F. Klein. Debates in the Digital Humanities 2016. University of Minnesota Press, 2016. Online [zde](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2016).
-  * Matthew K. Gold, Lauren F. Klein. Debates in the Digital Humanities 2019. University of Minnesota Press, 2019. Online [zde](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2019).
-
-### Užitečné odkazy
-* [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/)
-* European Association for Digital Humanities - [projekty](https://eadh.org/projects)
-* Digital Humanities Institute at the University of Sheffield - [projekty](https://www.dhi.ac.uk/projects/)
-
 ## Okruhy a témata
 1. Jak něco napsat?
   * Kate L. Turabian. “A Manual for Writers of Term Papers, Theses, and Dissertations.” University of Chicago Press,1955.
