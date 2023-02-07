@@ -1,6 +1,7 @@
 ---
 layout: default
-title: semestr
+title: Semestr
+parent: Teorie humanitních věd 2 
 nav_order: 2
 ---
 
