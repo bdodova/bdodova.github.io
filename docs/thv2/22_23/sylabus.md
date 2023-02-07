@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sylabus THV2
+title: Sylabus
 nav_order: 2
 ---
 
