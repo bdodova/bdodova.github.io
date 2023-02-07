@@ -2,6 +2,6 @@
 title: Teorie humanitní věd 2
 layout: home
 ---
-[sylabus](a)
+[sylabus](sylabus)
 
 ----
