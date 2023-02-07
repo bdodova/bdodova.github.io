@@ -1,6 +1,8 @@
 ---
+layout: default
 title: Užitečné odkazy
-nav_order: 5
+parent: Teorie humanitních věd 2
+nav_order: 6
 ---
 * [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/)
 * European Association for Digital Humanities - [projekty](https://eadh.org/projects)
