@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Požadavky
+title: Termíny
 nav_order: 3
 ---
 
