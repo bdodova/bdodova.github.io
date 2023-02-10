@@ -10,7 +10,7 @@ nav_order: 2
 
 ---
 
-## Setkání #1 - Jak něco napsat
+## Setkání #1 - Jak mít užitek z tohoto předmětu
 
 Datum: 13. 2. 2023
 
