@@ -22,7 +22,7 @@ Cílem kurzu je získat přehled o metodách výzkumu, které se uplatňují v h
 Úspěšní absolventi předmětu získají zkušenost se čtením různých druhů teoretických textů z humanitní oblasti. Budou schopni jim porozumět a kriticky se k nim vymezit. Budou umět navrhnout a metodologicky popsat vlastní výzkumný záměr nebo zhodnotit existující projekt z metodologického hlediska.
 
 ## Okruhy a témata
-1. Jak něco napsat?
+1. Jak mít užitek z tohoto předmětu?
   * Kate L. Turabian. “A Manual for Writers of Term Papers, Theses, and Dissertations.” University of Chicago Press,1955.
   * Umberto Eco. „Jak napsat diplomovou práci.“ Votobia, 1997.
   * Kirschenbaum, Matthew G. „What Is Digital Humanities and What’s It Doing in English Departments?“ ADE Bulletin, 2010.
