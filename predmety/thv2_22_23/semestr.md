@@ -18,7 +18,7 @@ Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/02-kdo
 Klíčová slova: stylometrie
 
 Četba na příště:
-* Franco Moretti: Network theory, plot analysis (2011), online [česky](texts/moretti-teorie_siti_a_analyza_syzetu.pdf), [anglicky](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf).
+* Franco Moretti: Network theory, plot analysis (2011), online [česky](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/texts/moretti-teorie_siti_a_analyza_syzetu.pdf), [anglicky](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf).
 
 ## Setkání #1 - Jak mít užitek z tohoto předmětu
 
