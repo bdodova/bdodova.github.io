@@ -9,6 +9,16 @@ nav_order: 2
 {:toc}
 
 ---
+## Setkání #2 - Kdo napsal Shakespeara
+
+Datum: 20. 2. 2023
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/02-kdo_napsal_shakespeara.html)
+
+Klíčová slova: stylometrie
+
+Četba na příště:
+* Franco Moretti: Network theory, plot analysis (2011), online [česky](texts/moretti-teorie_siti_a_analyza_syzetu.pdf), [anglicky](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf).
 
 ## Setkání #1 - Jak mít užitek z tohoto předmětu
 
