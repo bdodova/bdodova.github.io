@@ -19,6 +19,7 @@ Klíčová slova: stylometrie
 
 Četba na příště:
 * Franco Moretti: Network theory, plot analysis (2011), online [česky](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/texts/moretti-teorie_siti_a_analyza_syzetu.pdf), [anglicky](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf).
+* Roland Barthes. “Smrt autora.” Aluze: časopis pro literaturu, filosofii a jiné. Olomouc: Univerzita Palackého, 2006, roč. 10, č. 3. Online [zde](https://monoskop.org/images/d/de/Barthes_Roland_1968_2006_Smrt_autora.pdf).
 
 ## Setkání #1 - Jak mít užitek z tohoto předmětu
 
