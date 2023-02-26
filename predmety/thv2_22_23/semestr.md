@@ -18,7 +18,7 @@ Klíčová slova: nová kritika, close reading, strukturalismus, small-world exp
 
 Četba na příště:
 - Janice A. Radway: Jak ženy čtou milostné romány. Online [zde](https://monoskop.org/images/d/d8/Bendova_Helena_Strnad_Matej_eds_Spolecenske_vedy_a_audiovize_2014.pdf), strany 438-466.
-- Franco Moretti: The Slaughterhouse of Literature. Online [zde](http://invertedpendulum.cz/dh/Moretti-Slaughterhouse-of-Lit.pdf). Heslo pro stažení souboru se dozvíte na přednášce, nebo si o něj napiště na borjana.dodova@gmail.com.
+- Franco Moretti: The Slaughterhouse of Literature. Online [zde](http://invertedpendulum.cz/dh/Moretti-Slaughterhouse-of-Lit.pdf). Heslo pro stažení souboru se dozvíte na přednášce, nebo si o něj napište na borjana.dodova@gmail.com.
 
 ---
 ## Setkání #2 - Kdo napsal Shakespeara
