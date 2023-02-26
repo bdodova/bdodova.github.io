@@ -7,6 +7,18 @@ nav_order: 2
 
 1. TOC
 {:toc}
+---
+## Setkání #3 - Jak rozumet Hamletovi
+
+Datum: 27. 2. 2023
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/03-jak_rozumět_hamletovi.html)
+
+Klíčová slova: nová kritika, close reading, strukturalismus, small-world experiment
+
+Četba na příště:
+- Janice A. Radway: Jak ženy čtou milostné romány. Online [zde](https://monoskop.org/images/d/d8/Bendova_Helena_Strnad_Matej_eds_Spolecenske_vedy_a_audiovize_2014.pdf), strany 438-466.
+- Franco Moretti: The Slaughterhouse of Literature. Online [zde](http://invertedpendulum.cz/dh/Moretti-Slaughterhouse-of-Lit.pdf). Heslo pro stažení souboru se dozvíte na přednášce, nebo si o něj napiště na borjana.dodova@gmail.com.
 
 ---
 ## Setkání #2 - Kdo napsal Shakespeara
