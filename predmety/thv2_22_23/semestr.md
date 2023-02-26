@@ -8,7 +8,7 @@ nav_order: 2
 1. TOC
 {:toc}
 ---
-## Setkání #3 - Jak rozumet Hamletovi
+## Setkání #3 - Jak rozumět Hamletovi
 
 Datum: 27. 2. 2023
 
