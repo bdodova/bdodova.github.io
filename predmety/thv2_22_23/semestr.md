@@ -17,8 +17,7 @@ Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/04-jak
 Klíčová slova: poststrukturalismus, diferänce, kulturální studia, distant reading
 
 Četba na příště:
-- [hlavní článek] Cameron Blevins: [Space, Nation, and the Triumph of Region: A View of the World from Houston](http://cameronblevins.org/downloads/Blevins_SpaceNationAndTheTriumphOfRegion_Color.pdf) (2014)
-- [metodologická esej, část "Methodology"] Cameron Blevins: Mining and Mapping the Production of Space [zde (waybackmachine)](https://web.archive.org/web/20220125152841/http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=93#12).                                    
+- Cameron Blevins: [Space, Nation, and the Triumph of Region: A View of the World from Houston](http://cameronblevins.org/downloads/Blevins_SpaceNationAndTheTriumphOfRegion_Color.pdf) (2014)
 ---
 ## Setkání #3 - Jak rozumět Hamletovi
 
