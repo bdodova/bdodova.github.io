@@ -7,6 +7,18 @@ nav_order: 2
 
 1. TOC
 {:toc}
+
+---
+## Setkání #5 - Jak vyprávět historii
+
+Datum: 13. 3. 2023
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/05-jak_vypravet_historii.html)
+
+Klíčová slova: historiografie, narace, diskurz, tropika, škola Annales, longue durée
+
+Četba na příště:
+- Lev Manovich: "How to Compare One Million Images?", in David Berry (ed.): "Understanding Digital Humanities", 2012, online [zde](http://softwarestudies.com/cultural_analytics/2011.How_To_Compare_One_Million_Images.pdf).
 ---
 ## Setkání #4 - Jak nečíst knihy
 
