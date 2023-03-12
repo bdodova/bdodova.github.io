@@ -8,7 +8,6 @@ nav_order: 2
 1. TOC
 {:toc}
 
----
 ## Setkání #5 - Jak vyprávět historii
 
 Datum: 13. 3. 2023
@@ -18,8 +17,8 @@ Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/05-jak
 Klíčová slova: historiografie, narace, diskurz, tropika, škola Annales, longue durée
 
 Četba na příště:
-- Lev Manovich: "How to Compare One Million Images?", in David Berry (ed.): "Understanding Digital Humanities", 2012, online [zde](http://softwarestudies.com/cultural_analytics/2011.How_To_Compare_One_Million_Images.pdf).
----
+* Lev Manovich: "How to Compare One Million Images?", in David Berry (ed.): "Understanding Digital Humanities", 2012, online [zde](http://softwarestudies.com/cultural_analytics/2011.How_To_Compare_One_Million_Images.pdf).
+
 ## Setkání #4 - Jak nečíst knihy
 
 Datum: 6. 3. 2023
@@ -29,8 +28,8 @@ Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/04-jak
 Klíčová slova: poststrukturalismus, diferänce, kulturální studia, distant reading
 
 Četba na příště:
-- Cameron Blevins: [Space, Nation, and the Triumph of Region: A View of the World from Houston](http://cameronblevins.org/downloads/Blevins_SpaceNationAndTheTriumphOfRegion_Color.pdf) (2014)
----
+* Cameron Blevins: [Space, Nation, and the Triumph of Region: A View of the World from Houston](http://cameronblevins.org/downloads/Blevins_SpaceNationAndTheTriumphOfRegion_Color.pdf) (2014)
+
 ## Setkání #3 - Jak rozumět Hamletovi
 
 Datum: 27. 2. 2023
@@ -40,10 +39,9 @@ Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/03-jak
 Klíčová slova: nová kritika, close reading, strukturalismus, small-world experiment
 
 Četba na příště:
-- Janice A. Radway: Jak ženy čtou milostné romány. Online [zde](https://monoskop.org/images/d/d8/Bendova_Helena_Strnad_Matej_eds_Spolecenske_vedy_a_audiovize_2014.pdf), strany 438-466.
-- Franco Moretti: The Slaughterhouse of Literature. Online [zde](http://invertedpendulum.cz/dh/Moretti-Slaughterhouse-of-Lit.pdf). Heslo pro stažení souboru se dozvíte na přednášce, nebo si o něj napište na borjana.dodova@gmail.com.
+* Janice A. Radway: Jak ženy čtou milostné romány. Online [zde](https://monoskop.org/images/d/d8/Bendova_Helena_Strnad_Matej_eds_Spolecenske_vedy_a_audiovize_2014.pdf), strany 438-466.
+* Franco Moretti: The Slaughterhouse of Literature. Online [zde](http://invertedpendulum.cz/dh/Moretti-Slaughterhouse-of-Lit.pdf). Heslo pro stažení souboru se dozvíte na přednášce, nebo si o něj napište na borjana.dodova@gmail.com.
 
----
 ## Setkání #2 - Kdo napsal Shakespeara
 
 Datum: 20. 2. 2023
