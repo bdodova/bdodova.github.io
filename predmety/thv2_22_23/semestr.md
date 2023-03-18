@@ -8,6 +8,18 @@ nav_order: 2
 1. TOC
 {:toc}
 
+## Setkání #6 - Jak se dívat na obrazy
+
+Datum: 20. 3. 2023
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/06-jak_se_divat_na_obrazy.html)
+
+Klíčová slova: cultural analytics, entropie, ikonologie, jazykový obrat, tropika diskurzu, obrazový obrat, simulakra
+
+Četba na příště:
+- Marshall McLuhan: [Jak rozumět médiím](https://monoskop.org/images/7/77/McLuhan_Marshall_Jak_rozumet_mediim.pdf) (1964), strany 19-42.
+- Lev Manovich: [Principy nových médií](https://pile.sdbs.cz/docs/Principy_novych_medii.pdf), vybráno z "The Language of New Media" (2002).
+
 ## Setkání #5 - Jak vyprávět historii
 
 Datum: 13. 3. 2023
