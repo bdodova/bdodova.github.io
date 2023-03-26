@@ -8,6 +8,16 @@ nav_order: 2
 1. TOC
 {:toc}
 
+## Setkání #7 - Jak rozumět médiím
+
+Datum: 27. 3. 2023
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/07-jak_rozumet_mediim.html)
+
+Klíčová slova: médium, nová média, epistémé, kulturní techniky
+
+Četba na příště:
+
 ## Setkání #6 - Jak se dívat na obrazy
 
 Datum: 20. 3. 2023
