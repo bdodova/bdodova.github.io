@@ -17,6 +17,7 @@ Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/07-jak
 Klíčová slova: médium, nová média, epistémé, kulturní techniky
 
 Četba na příště:
+- Bruno Latour: [Poznání a vizualizace aneb jak myslet očima a rukama](https://teorievedy.flu.cas.cz/index.php/tv/article/download/446/444) (1986).
 
 ## Setkání #6 - Jak se dívat na obrazy
 
