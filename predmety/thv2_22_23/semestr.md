@@ -8,6 +8,17 @@ nav_order: 2
 1. TOC
 {:toc}
 
+## Setkání #8 - Jak rozumět techologiím
+
+Datum: 3. 4. 2023
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/08-jak_rozumet_technologiim.html)
+
+Klíčová slova: vizualizace, data, capta
+
+Četba na příště:
+- Donna Haraway: "Manifest Kyborgů: Věda, technologie a socialistický feminismus ke konci dvacátého století", úryvek online [zde](https://monoskop.org/images/d/d9/Haraway_Donna_1991_2002_Manifest_kyborgu_veda_technologie_a_socialisticky_feminismus_ke_konci_dvacateho_stoleti.pdf).
+
 ## Setkání #7 - Jak rozumět médiím
 
 Datum: 27. 3. 2023
