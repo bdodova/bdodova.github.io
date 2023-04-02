@@ -17,7 +17,7 @@ Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/08-jak
 Klíčová slova: vizualizace, data, capta
 
 Četba na příště:
-- Donna Haraway: "Manifest Kyborgů: Věda, technologie a socialistický feminismus ke konci dvacátého století", úryvek online [zde](https://monoskop.org/images/d/d9/Haraway_Donna_1991_2002_Manifest_kyborgu_veda_technologie_a_socialisticky_feminismus_ke_konci_dvacateho_stoleti.pdf).
+- John Searle: "Minds, brains, and Programs" (1980), online [zde](http://www.course.sdu.edu.cn/G2S/eWebEditor/uploadfile/20140227112825015.pdf), strany 417-424 (tj. bez komentářů, ale i ty si můžete pročíst).
 
 ## Setkání #7 - Jak rozumět médiím
 
