@@ -5,7 +5,7 @@ parent: Teorie humanitních věd 2
 nav_order: 6
 ---
 
-## Akademické články
+## Rozcestníky akademických článků z oblasti DH
 * [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/)
 * [Journal of Cultural Analytics](https://culturalanalytics.org/)
 * [Digital Studies / Le champ numérique](https://www.digitalstudies.org/issues/)
