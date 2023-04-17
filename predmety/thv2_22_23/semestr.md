@@ -14,7 +14,7 @@ Datum: 17. 4. 2023
 
 Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/09-jak_myslet_jako_stroj.html)
 
-Klíčová slova: Turingův stroj, Turingův test, Argument čínského pokoje, jazykový model, ludismus
+Klíčová slova: Turingův stroj, Turingův test, Argument čínského pokoje, jazykový model, luddismus
 
 Četba na příště:
 - Theodor W. Adorno, Max Horkheimer, “Kulturní průmysl: osvícenství jako masový podvod”. In “Společenské vědy a audiovize”. Online [zde](https://monoskop.org/images/d/d8/Bendova_Helena_Strnad_Matej_eds_Spolecenske_vedy_a_audiovize_2014.pdf), strany 200-224.
