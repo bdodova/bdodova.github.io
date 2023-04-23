@@ -8,7 +8,7 @@ nav_order: 2
 1. TOC
 {:toc}
 
-## Zkouškové termíny
+## Zkouškové termíny (návrh)
 - &thinsp; 22. 5. 2023
 - &thinsp; 5. 6. 2023
 - &thinsp; 19. 6. 2023
