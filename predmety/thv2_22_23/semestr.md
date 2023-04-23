@@ -8,6 +8,21 @@ nav_order: 2
 1. TOC
 {:toc}
 
+## Zkouškové termíny
+- &thinsp; 22. 5. 2023
+- &thinsp; 5. 6. 2023
+- &thinsp; 19. 6. 2023
+
+Postup: Alespoň 3 dny před konáním zkoušky poslat esej na borjana.dodova@gmail.com, obratem upřesním čas zkoušky.
+
+## Setkání #10 - Jak dělat kritiku
+
+Datum: 24. 4. 2023
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/10-jak_delat_kritiku.html)
+
+Klíčová slova: kritická teorie, kulturní průmysl, technologická singularita
+
 ## Setkání #9 - Jak myslet jako stroj
 
 Datum: 17. 4. 2023
