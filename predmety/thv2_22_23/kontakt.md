@@ -3,6 +3,7 @@ layout: default
 title: Kontakt
 #nav_order: 10
 nav_exclude: true
+categories: ['THV2_2022_23']
 ---
 <dl>
 <dt>Kontakt</dt><dd>Borjana Dodova</dd>

@@ -4,6 +4,7 @@ title: Požadavky a termíny
 parent: Teorie humanitních věd 2
 #nav_order: 3
 nav_exclude: true
+categories: ['THV2_2022_23']
 ---
 
 * Aktivní účast na hodině, čtení seminárních textů (20%)

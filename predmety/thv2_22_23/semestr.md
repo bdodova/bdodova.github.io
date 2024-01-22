@@ -4,6 +4,7 @@ title: Průběh semestru
 parent: Teorie humanitních věd 2 
 #nav_order: 2
 nav_exclude: true
+categories: ['THV2_2022_23']
 ---
 
 1. TOC
