@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Kontakt
-nav_order: 10
+#nav_order: 10
+nav_exclude: true
 ---
 <dl>
 <dt>Kontakt</dt><dd>Borjana Dodova</dd>

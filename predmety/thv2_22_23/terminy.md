@@ -2,7 +2,8 @@
 layout: default
 title: Požadavky a termíny
 parent: Teorie humanitních věd 2
-nav_order: 3
+#nav_order: 3
+nav_exclude: true
 ---
 
 * Aktivní účast na hodině, čtení seminárních textů (20%)

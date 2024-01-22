@@ -2,7 +2,8 @@
 layout: default
 title: Užitečné odkazy
 parent: Teorie humanitních věd 2
-nav_order: 6
+#nav_order: 6
+nav_exclude: true
 ---
 
 ## Rozcestníky akademických článků z oblasti DH
