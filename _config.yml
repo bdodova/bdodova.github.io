@@ -6,3 +6,21 @@ url: https://bdodova.github.io/
 
 # Enable or disable the site search
 search_enabled: true
+
+collections:
+  # Define a collection named "tests", its documents reside in the "_tests" directory
+  thv2_2022_23:
+    permalink: "/:collection/:path/"
+    output: false
+  thv2_2023_24:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    thv2_2022_23:
+      name: 2022/23
+      nav_exclude: true
+      search_exclude: true
+    thv2_2023_24:
+      name: 2023/24
