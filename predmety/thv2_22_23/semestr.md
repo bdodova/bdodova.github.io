@@ -1,9 +1,8 @@
 ---
-layout: minimal
+layout: default
 title: Průběh semestru
-parent: Teorie humanitních věd 2 
-#nav_order: 2
-nav_exclude: true
+parent: Teorie humanitních věd 2, LS 2022/23
+nav_order: 2
 categories: ['THV2_2022_23']
 ---
 

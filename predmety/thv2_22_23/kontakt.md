@@ -1,8 +1,8 @@
 ---
-layout: minimal
+layout: default
 title: Kontakt
-#nav_order: 10
-nav_exclude: true
+nav_order: 10
+parent: Teorie humanitních věd 2, LS 2022/23
 categories: ['THV2_2022_23']
 ---
 <dl>

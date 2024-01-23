@@ -1,9 +1,9 @@
 ---
-layout: minimal
+layout: default
 title: Užitečné odkazy
-parent: Teorie humanitních věd 2
-#nav_order: 6
-nav_exclude: true
+parent: Teorie humanitních věd 2, LS 2022/23
+nav_order: 6
+categories: ['THV2_2022_23']
 ---
 
 ## Rozcestníky akademických článků z oblasti DH
