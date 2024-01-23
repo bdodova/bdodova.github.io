@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Sylabus
-parent: Teorie humanitních věd 2
 nav_order: 4
+parent: Teorie humanitních věd 2, LS 2023/24
 ---
 
 <details open markdown="block">

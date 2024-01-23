@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Požadavky a termíny
-parent: Teorie humanitních věd 2
 nav_order: 3
+parent: Teorie humanitních věd 2, LS 2023/24
 ---
 
 * Aktivní účast na hodině, čtení seminárních textů (20%)
