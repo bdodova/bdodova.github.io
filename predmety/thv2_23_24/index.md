@@ -12,6 +12,4 @@ categories: ['THV2_2023_24']
 - [Sylabus](sylabus.html)
 - [Literatura](literatura.html)
 - [Užitečné odkazy](odkazy.html)
-- [Termíny](terminy.html)
-- [Kontakt](kontakt.html)
-
+- [Požadavky a termíny](terminy.html)
