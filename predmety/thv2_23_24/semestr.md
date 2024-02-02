@@ -17,4 +17,4 @@ Prezentace: TBD
 Klíčová slova: TBD
 
 Četba na příště:
-* R. L. Boyd, J. W. Pennebaker: Did Shakespeare Write Double Falsehood? Identifying Individuals by Creating Psychological Signatures With Text Analysis (2015), online [zde](http://elizabethan-theatre.org/wps/wp-content/uploads/2015/07/Double-Falsehood-by-Ryan-Boyd-Psychological-Science-2015.pdf).
+* R. L. Boyd, J. W. Pennebaker: Did Shakespeare Write Double Falsehood? Identifying Individuals by Creating Psychological Signatures With Text Analysis (2015), online [zde](https://journals.sagepub.com/doi/pdf/10.1177/0956797614566658).
