@@ -12,9 +12,9 @@ parent: Teorie humanitních věd 2, LS 2023/24
 
 Datum: 5. 2. 2023
 
-Prezentace: TBD
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/01-jak_mit_uzitek_z_tohoto_predmetu.html)
 
-Klíčová slova: TBD
+Klíčová slova: textovost, testování vědeckých teorií, hermeneutický kruh
 
 Četba na příště:
-* R. L. Boyd, J. W. Pennebaker: Did Shakespeare Write Double Falsehood? Identifying Individuals by Creating Psychological Signatures With Text Analysis (2015), online [zde](https://journals.sagepub.com/doi/pdf/10.1177/0956797614566658).
+* R. L. Boyd, J. W. Pennebaker: Did Shakespeare Write Double Falsehood? Identifying Individuals by Creating Psychological Signatures With Text Analysis (2015), online [zde](https://invertedpendulum.cz/dh/BoydPennebaker2015-DoubleFalsehood.pdf).
