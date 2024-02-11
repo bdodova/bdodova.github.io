@@ -28,5 +28,5 @@ Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/02-kdo
 Klíčová slova: literatura, autor, stylometrie
 
 Četba na příště:
-* Franco Moretti: Network theory, plot analysis (2011), online [česky](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/texts/moretti-teorie_siti_a_analyza_syzetu.pdf), [anglicky](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf).
+* Franco Moretti: Network theory, plot analysis (2011), online [česky Teorie sítí a analýza syžetu (2019)](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/texts/moretti-teorie_siti_a_analyza_syzetu.pdf), [anglicky](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf).
 * Roland Barthes: "Smrt autora" in Aluze: časopis pro literaturu, filosofii a jiné. Olomouc: Univerzita Palackého, 2006, roč. 10, č. 3. Online [zde](https://monoskop.org/images/d/de/Barthes_Roland_1968_2006_Smrt_autora.pdf).
