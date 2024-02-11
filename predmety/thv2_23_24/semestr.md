@@ -23,7 +23,7 @@ Klíčová slova: textovost, testování vědeckých teorií, hermeneutický kru
 
 Datum: 12. 2. 2024
 
-Prezentace: TBD
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/02-kdo_napsal_shakespeara.html)
 
 Klíčová slova: literatura, autor, stylometrie
 
