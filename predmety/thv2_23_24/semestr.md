@@ -8,16 +8,29 @@ parent: Teorie humanitních věd 2, LS 2023/24
 1. TOC
 {:toc}
 
-## Setkání #1 - Jak mít užitek z tohoto předmětu
+## Setkání #4
+Datum: 26. 2. 2024
 
-Datum: 5. 2. 2024
+Nadcházející výuku THV2 (26. 2. 2024) jsem nucena pro nemoc zrušit.
 
-Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/01-jak_mit_uzitek_z_tohoto_predmetu.html)
-
-Klíčová slova: textovost, testování vědeckých teorií, hermeneutický kruh
+Pokud jste měli dnes prezentovat a nemůžete dorazit na příští setkání (4. 3. 2024), dejte mi prosím vědět na borjana.dodova@gmail.com.
 
 Četba na příště:
-* R. L. Boyd, J. W. Pennebaker: Did Shakespeare Write Double Falsehood? Identifying Individuals by Creating Psychological Signatures With Text Analysis (2015), online [zde](https://invertedpendulum.cz/dh/BoydPennebaker2015-DoubleFalsehood.pdf).
+- Janice A. Radway: Jak ženy čtou milostné romány. Online [zde](https://monoskop.org/images/d/d8/Bendova_Helena_Strnad_Matej_eds_Spolecenske_vedy_a_audiovize_2014.pdf), strany 438-466.
+- Franco Moretti: The Slaughterhouse of Literature. Online [zde](http://invertedpendulum.cz/dh/Moretti-Slaughterhouse-of-Lit.pdf). POZOR: Heslo pro stažení souboru se dozvíte na přednášce, nebo si o něj napište na borjana.dodova@gmail.com.
+
+
+## Setkání #3 - Jak rozumět Hamletovi
+
+Datum: 19. 2. 2024
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/03-jak_rozumet_hamletovi.html)
+
+Klíčová slova: jazykový znak dle de Saussura, jazykový relativismus a Sapirova-Whorfova hypotéza, implikovaný autor
+
+Četba na příště:
+- Janice A. Radway: Jak ženy čtou milostné romány. Online [zde](https://monoskop.org/images/d/d8/Bendova_Helena_Strnad_Matej_eds_Spolecenske_vedy_a_audiovize_2014.pdf), strany 438-466.
+- Franco Moretti: The Slaughterhouse of Literature. Online [zde](http://invertedpendulum.cz/dh/Moretti-Slaughterhouse-of-Lit.pdf). POZOR: Heslo pro stažení souboru se dozvíte na přednášce, nebo si o něj napište na borjana.dodova@gmail.com.
 
 ## Setkání #2 - Kdo napsal Shakespeara
 
@@ -31,14 +44,13 @@ Klíčová slova: literatura, autor, stylometrie
 * Franco Moretti: Network theory, plot analysis (2011), online [česky Teorie sítí a analýza syžetu (2019)](https://bdodova.github.io/prezentace_LS_2022_23_THV2_UP/texts/moretti-teorie_siti_a_analyza_syzetu.pdf), [anglicky](https://litlab.stanford.edu/LiteraryLabPamphlet2.pdf).
 * Roland Barthes: "Smrt autora" in Aluze: časopis pro literaturu, filosofii a jiné. Olomouc: Univerzita Palackého, 2006, roč. 10, č. 3. Online [zde](https://monoskop.org/images/d/de/Barthes_Roland_1968_2006_Smrt_autora.pdf).
 
-## Setkání #3 - Jak rozumět Hamletovi
+## Setkání #1 - Jak mít užitek z tohoto předmětu
 
-Datum: 19. 2. 2024
+Datum: 5. 2. 2024
 
-Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/03-jak_rozumet_hamletovi.html)
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/01-jak_mit_uzitek_z_tohoto_predmetu.html)
 
-Klíčová slova: jazykový znak dle de Saussura, jazykový relativismus a Sapirova-Whorfova hypotéza, implikovaný autor
+Klíčová slova: textovost, testování vědeckých teorií, hermeneutický kruh
 
 Četba na příště:
-- Janice A. Radway: Jak ženy čtou milostné romány. Online [zde](https://monoskop.org/images/d/d8/Bendova_Helena_Strnad_Matej_eds_Spolecenske_vedy_a_audiovize_2014.pdf), strany 438-466.
-- Franco Moretti: The Slaughterhouse of Literature. Online [zde](http://invertedpendulum.cz/dh/Moretti-Slaughterhouse-of-Lit.pdf). POZOR: Heslo pro stažení souboru se dozvíte na přednášce, nebo si o něj napište na borjana.dodova@gmail.com.
+* R. L. Boyd, J. W. Pennebaker: Did Shakespeare Write Double Falsehood? Identifying Individuals by Creating Psychological Signatures With Text Analysis (2015), online [zde](https://invertedpendulum.cz/dh/BoydPennebaker2015-DoubleFalsehood.pdf).
