@@ -9,6 +9,16 @@ parent: Teorie humanitních věd 2, LS 2023/24
 {:toc}
 
 ## Setkání #4
+Datum: 4. 3. 2024
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/04-jak_necist_knihy.html)
+
+Klíčová slova: implikovaný čtenář a autor, kulturální studia, kánon
+
+Četba na příště:
+- Reagan, A. J., Mitchell, L., Kiley, D. et al.: [The emotional arcs of stories are dominated by six basic shapes](https://link.springer.com/content/pdf/10.1140/epjds/s13688-016-0093-1.pdf). EPJ Data Sci. 5, 31 (2016).
+
+## Setkání #4 (zrušeno)
 Datum: 26. 2. 2024
 
 Nadcházející výuku THV2 (26. 2. 2024) jsem nucena pro nemoc zrušit.
