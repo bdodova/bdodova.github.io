@@ -8,6 +8,17 @@ parent: Teorie humanitních věd 2, LS 2023/24
 1. TOC
 {:toc}
 
+## Setkání #5
+Datum: 11. 3. 2024
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/05-jak_spocitat_pohadky.html)
+
+Klíčová slova: naratologie, hledisko vypravěče, Aristotelova Poetika, Proppovy funkce, Greimasův aktantní model, fabule a syžet
+
+Četba na příště:
+- Cameron Blevins: [Space, Nation, and the Triumph of Region: A View of the World from Houston](http://cameronblevins.org/downloads/Blevins_SpaceNationAndTheTriumphOfRegion_Color.pdf) (2014)
+
+
 ## Setkání #4
 Datum: 4. 3. 2024
 
