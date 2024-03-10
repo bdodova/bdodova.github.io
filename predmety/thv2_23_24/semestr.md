@@ -8,7 +8,7 @@ parent: Teorie humanitních věd 2, LS 2023/24
 1. TOC
 {:toc}
 
-## Setkání #5
+## Setkání #5 - Jak spočítat pohádky
 Datum: 11. 3. 2024
 
 Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/05-jak_spocitat_pohadky.html)
@@ -17,9 +17,10 @@ Klíčová slova: naratologie, hledisko vypravěče, Aristotelova Poetika, Propp
 
 Četba na příště:
 - Cameron Blevins: [Space, Nation, and the Triumph of Region: A View of the World from Houston](http://cameronblevins.org/downloads/Blevins_SpaceNationAndTheTriumphOfRegion_Color.pdf) (2014)
+- Robert Darnton: [Velký masakr koček](https://is.muni.cz/el/phil/podzim2015/HIA267/um/Darnton_Masakr_kocek.pdf) (1984, česky 2013)
 
 
-## Setkání #4
+## Setkání #4 - Jak nečíst knihy
 Datum: 4. 3. 2024
 
 Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/04-jak_necist_knihy.html)
