@@ -8,12 +8,22 @@ parent: Teorie humanitních věd 2, LS 2023/24
 1. TOC
 {:toc}
 
+## Setkání #6 - Jak vyprávět historii
+Datum: 18. 3. 2024
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/06-jak_vypravet_historii.html)
+
+Klíčové pojmy: historiografie, mimésis, diskurz, tropika, škola Annales, longue durée, dějiny každodennosti a mentalit
+
+Četba na příště:
+- Lev Manovich: "How to Compare One Million Images?", in David Berry (ed.): "Understanding Digital Humanities", 2012, online [zde](http://manovich.net/content/04-projects/071-how-to-compare/68_article_2011_sm.pdf).
+
 ## Setkání #5 - Jak spočítat pohádky
 Datum: 11. 3. 2024
 
 Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/05-jak_spocitat_pohadky.html)
 
-Klíčová slova: naratologie, hledisko vypravěče, Aristotelova Poetika, Proppovy funkce, Greimasův aktantní model, fabule a syžet
+Klíčová slova: naratologie, hledisko vypravěče, Aristotelova Poetika, Proppovy funkce, Greimasův aktantní model
 
 Četba na příště:
 - Cameron Blevins: [Space, Nation, and the Triumph of Region: A View of the World from Houston](http://cameronblevins.org/downloads/Blevins_SpaceNationAndTheTriumphOfRegion_Color.pdf) (2014)
