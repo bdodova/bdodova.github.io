@@ -13,7 +13,7 @@ Datum: 18. 3. 2024
 
 Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/06-jak_vypravet_historii.html)
 
-Klíčové pojmy: historiografie, mimésis, diskurz, tropika, škola Annales, longue durée, dějiny každodennosti a mentalit
+Klíčové pojmy: historiografie, mimésis, diskurz, škola Annales, longue durée, dějiny každodennosti a mentalit
 
 Četba na příště:
 - Lev Manovich: "How to Compare One Million Images?", in David Berry (ed.): "Understanding Digital Humanities", 2012, online [zde](http://manovich.net/content/04-projects/071-how-to-compare/68_article_2011_sm.pdf).
