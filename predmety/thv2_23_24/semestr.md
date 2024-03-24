@@ -8,6 +8,17 @@ parent: Teorie humanitních věd 2, LS 2023/24
 1. TOC
 {:toc}
 
+## Setkání #7 - Jak se dívat na obrazy
+Datum: 25. 3. 2024
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/06-jak_se_divat_na_obrazy.html)
+
+Klíčové pojmy: cultural analytics, ikonologie, jazykový a obrazový obrat, obraztext, simulakra
+
+Četba na příště:
+- Marshall McLuhan: [Jak rozumět médiím](https://monoskop.org/images/7/77/McLuhan_Marshall_Jak_rozumet_mediim.pdf) (1964), strany 19-42.
+- Lev Manovich: [Principy nových médií](https://pile.sdbs.cz/docs/Principy_novych_medii.pdf), vybráno z "The Language of New Media" (2002).
+
 ## Setkání #6 - Jak vyprávět historii
 Datum: 18. 3. 2024
 
