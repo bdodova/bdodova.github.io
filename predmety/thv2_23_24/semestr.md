@@ -11,7 +11,7 @@ parent: Teorie humanitních věd 2, LS 2023/24
 ## Setkání #7 - Jak se dívat na obrazy
 Datum: 25. 3. 2024
 
-Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/06-jak_se_divat_na_obrazy.html)
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/07-jak_se_divat_na_obrazy.html)
 
 Klíčové pojmy: cultural analytics, ikonologie, jazykový a obrazový obrat, obraztext, simulakra
 
