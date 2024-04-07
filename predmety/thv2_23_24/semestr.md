@@ -16,7 +16,7 @@ Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/08-jak
 Klíčové pojmy: média, nové média, archeologie, diskurz, kulturní techniky
 
 Četba na příště:
-- John Searle: "Minds, brains, and Programs" (1980), online [zde](http://www.course.sdu.edu.cn/G2S/eWebEditor/uploadfile/20140227112825015.pdf), strany 417-424 (tj. bez komentářů, ale i ty si můžete pročíst).
+- John Searle: "Minds, brains, and Programs" (1980), online [zde](https://zoo.cs.yale.edu/classes/cs458/materials/minds-brains-and-programs.pdf), strany 417-424 (tj. bez komentářů, ale i ty si samozřejmě můžete pročíst).
 - Donna Haraway: ["Manifest Kyborgů: Věda, technologie a socialistický feminismus ke konci dvacátého století"](https://monoskop.org/images/d/d9/Haraway_Donna_1991_2002_Manifest_kyborgu_veda_technologie_a_socialisticky_feminismus_ke_konci_dvacateho_stoleti.pdf) (1985)
 
 ## Setkání #7 - Jak se dívat na obrazy
