@@ -13,7 +13,7 @@ Datum: 8. 4. 2024
 
 Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/08-jak_rozumet_mediim.html)
 
-Klíčové pojmy: média, nové média, archeologie, diskurz, kulturní techniky
+Klíčové pojmy: média, nová média, archeologie, diskurz, kulturní techniky
 
 Četba na příště:
 - John Searle: "Minds, brains, and Programs" (1980), online [zde](https://zoo.cs.yale.edu/classes/cs458/materials/minds-brains-and-programs.pdf), strany 417-424 (tj. bez komentářů, ale i ty si samozřejmě můžete pročíst).
