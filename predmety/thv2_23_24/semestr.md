@@ -8,6 +8,17 @@ parent: Teorie humanitních věd 2, LS 2023/24
 1. TOC
 {:toc}
 
+## Setkání #9 - Jak myslet jako stroj
+Datum: 15. 4. 2024
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/09-jak_myslet_jako_stroj.html)
+
+Klíčové pojmy: Turingův test, Argument čínského pokoje, kyborg, postmoderna a posthumanismus
+
+Četba na příště:
+- Jane Jacobs: [The Uses of Sidewalks: Safety](https://openlab.bmcc.cuny.edu/criminal-justice-and-the-urban-community-crj-204/wp-content/uploads/sites/92/2020/08/City-Reader-Jacobs.pdf) (výňatek z The Death and Life of Great American Cities (1961))
+- Michel de Certeau: Walking in the City ([česky, zabezpečeno heslem, ptejte se na hodině nebo emailem](https://invertedpendulum.cz/dh/Michel_de_Certeau_-_Prochazka_mestem.pdf), nebo jako výňatek [anglicky na stranách 91-110](https://monoskop.org/images/2/2a/De_Certeau_Michel_The_Practice_of_Everyday_Life.pdf)) (1980)
+
 ## Setkání #8 - Jak rozumět médiím
 Datum: 8. 4. 2024
 
