@@ -8,6 +8,16 @@ parent: Teorie humanitních věd 2, LS 2023/24
 1. TOC
 {:toc}
 
+## Setkání #10 - Jak chodit po městě
+Datum: 22. 4. 2024
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/10-jak_chodit_po_meste.html)
+
+Klíčové pojmy: každodenní praktiky, urbanismus, modernismus, panoptikon, čitelnost a psatelnost, situacionismus a dérive
+
+Četba na příště:
+- Theodor W. Adorno, Max Horkheimer, “Kulturní průmysl: osvícenství jako masový podvod”. In “Společenské vědy a audiovize”. Online [zde](https://monoskop.org/images/d/d8/Bendova_Helena_Strnad_Matej_eds_Spolecenske_vedy_a_audiovize_2014.pdf), strany 200-224.
+
 ## Setkání #9 - Jak myslet jako stroj
 Datum: 15. 4. 2024
 
