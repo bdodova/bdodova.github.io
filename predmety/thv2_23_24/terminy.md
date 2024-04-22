@@ -7,6 +7,7 @@ parent: Teorie humanitních věd 2, LS 2023/24
 
 ## Termíny
 Termíny zkoušky: 6. 5., 20. 5., 3. 6., 17. 6. 2024
+
 Předtermín: 29. 4. 2024
 
 ## Požadavky
