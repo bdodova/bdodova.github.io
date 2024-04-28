@@ -8,6 +8,18 @@ parent: Teorie humanitních věd 2, LS 2023/24
 1. TOC
 {:toc}
 
+## Zkouška
+- zkouška formou rozpravy nad esejí
+- termíny: 6. 5., 20. 5., 3. 6., 17. 6. 2024
+- Alespoň 4 dny před konáním zkoušky poslat esej na borjana.dodova@gmail.com, obratem upřesním čas zkoušky.
+
+## Setkání #11 - Jak dělat kritiku
+Datum: 29. 4. 2024
+
+Prezentace: [zde](https://bdodova.github.io/prezentace_LS_2023_24_THV2_UP/11-jak_delat_kritiku.html)
+
+Klíčové pojmy: kritická teorie, kulturní průmysl, moc a vědění, Digital Studies
+
 ## Setkání #10 - Jak chodit po městě
 Datum: 22. 4. 2024
 
