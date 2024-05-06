@@ -10,7 +10,7 @@ parent: Teorie humanitních věd 2, LS 2023/24
 
 ## Informace ke zkoušce 6.5.
 
-Z důvodu mimořádné události na trati Praha-Olomouc se zkouška přesouvá z 11:00 hodin na 12:00 (nebo o kapku později). Bude probíhat v učebně KB 1.11. Děkuji za pochopení.
+Z důvodu mimořádné události na trati Praha-Olomouc se zkouška přesouvá z 11:00 hodin na 12:00. Bude probíhat v učebně KB 1.11. Děkuji za pochopení.
 
 ## Zkouška
 - zkouška formou rozpravy nad esejí
