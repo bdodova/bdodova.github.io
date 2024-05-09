@@ -8,10 +8,6 @@ parent: Teorie humanitních věd 2, LS 2023/24
 1. TOC
 {:toc}
 
-## Informace ke zkoušce 6. 5. 2024
-
-Z důvodu mimořádné události na trati Praha-Olomouc se zkouška přesouvá z 11:00 hodin na 12:00. Bude probíhat v učebně KB 1.11. Děkuji za pochopení.
-
 ## Zkouška
 - zkouška formou rozpravy nad esejí
 - termíny: 6. 5., 20. 5., 3. 6., 17. 6. 2024
